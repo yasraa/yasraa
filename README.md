@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm Yasra Kashif</h1>
 <h3 align="center">A passionate MERN Developer</h3>
 
